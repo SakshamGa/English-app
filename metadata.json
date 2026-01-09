@@ -1,0 +1,7 @@
+{
+  "name": "Saksham English App",
+  "description": "A fully functional AI-powered English learning application featuring personalized tutoring, grammar corrections, daily vocabulary goals, and progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
